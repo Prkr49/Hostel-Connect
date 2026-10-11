@@ -154,7 +154,7 @@ HostelConnect
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/arpit571/HostelConnect.git
+git clone (https://github.com/Prkr49/Hostel-Connect)
 ```
 
 ### 2. Install Dependencies
