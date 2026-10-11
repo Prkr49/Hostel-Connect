@@ -13,13 +13,6 @@ A full-stack **MERN Hostel Management System** that simplifies hostel operations
 ![Render](https://img.shields.io/badge/Backend-Render-46E3B7)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
----
-
-# 🚀 Live Demo
-
-- 🌐 **Frontend:** https://hostel-connect-mu.vercel.app/
-- ⚙️ **Backend API:** https://hostelconnect-api-uwae.onrender.com/
-
 
 ---
 
