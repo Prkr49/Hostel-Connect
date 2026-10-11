@@ -87,33 +87,6 @@ The project demonstrates practical full-stack development skills including REST 
 
 ---
 
-# 📸 Screenshots
-
-## Login
-
-![Login](./screenshots/login.png)
-
-## Register
-
-![Register](./screenshots/register.png)
-
-## Student Dashboard
-
-![Student Dashboard](./screenshots/student-dashboard.png)
-
-## Admin Dashboard
-
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-
-## Complaints
-
-![Complaints](./screenshots/complaints.png)
-
-## Notice Board
-
-![Notice Board](./screenshots/notices.png)
-
----
 
 # 📁 Project Structure
 
